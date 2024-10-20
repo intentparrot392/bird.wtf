@@ -1,0 +1,17 @@
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\bird.wtf v2.exe.config
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\bird.wtf v2.exe
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\bird.wtf v2.pdb
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf v2.csproj.AssemblyReference.cache
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf_v2.Form1.resources
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf_v2.Properties.Resources.resources
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf v2.csproj.GenerateResource.cache
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf v2.csproj.CoreCompileInputs.cache
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf v2.exe
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf v2.pdb
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\x64\Lexilla.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\x64\Scintilla.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\x86\Lexilla.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\x86\Scintilla.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\Scintilla.NET.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\bin\Debug\SynapseZAPI.dll
+C:\Users\intentparrot392\Desktop\bird.wtf v2\obj\Debug\bird.wtf.9C6FA3F6.Up2Date
